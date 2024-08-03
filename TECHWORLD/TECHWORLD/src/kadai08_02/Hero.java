@@ -33,9 +33,7 @@ public class Hero {
 	 * new Hero()のような名前を指定してなければ
 	 * インスタンス化することはできない
 	 */
-	public Hero() {
 
-	}
 	
 	// メソッド
 	// 攻撃
