@@ -8,7 +8,7 @@ public class Story {
 
 		Scanner scan = new Scanner(System.in);
 
-		Hero h = new Hero();
+		Hero h = new Hero("勇者", 100, 50);
 		System.out.println("勇者が誕生した");
 		System.out.println("名前:" + h.name);
 		System.out.println("体力:" + h.hp);
